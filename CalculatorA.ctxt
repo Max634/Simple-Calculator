@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=CalculatorA
+comment1.params=fullname\ num1\ num2\ oper
+comment1.target=CalculatorA(java.lang.String,\ int,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ CalculatorB\r\n
+numComments=2
