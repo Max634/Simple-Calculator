@@ -8,5 +8,5 @@ PROJECT TITLE:Calculator
 PURPOSE OF PROJECT: This calculator will do a simple calculations.
 VERSION or DATE: 1/26/2022
 HOW TO START THIS PROJECT:
-AUTHORS: Maksim Botukh
+AUTHORS: 
 USER INSTRUCTIONS:
